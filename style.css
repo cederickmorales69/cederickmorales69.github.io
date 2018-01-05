@@ -1,0 +1,46 @@
+.w1{
+	position:absolute;
+	font-size:30px;
+	left:360px;
+	color:white;
+}
+body {
+    background-color: black;
+}
+.link1{
+	position:absolute;
+	left:50px;
+}
+
+.link2{
+	position:absolute;
+	left:190px;
+}
+.link3{
+	position:absolute;
+	left:350px;
+}
+
+.p{
+	position:absolute;
+	left:90px;
+	top:260px;
+}
+
+.p1{
+	position:absolute;
+	left:1000px;
+	top:260px;
+}
+
+.p2{
+	position:absolute;
+	left:1000px;
+	top:550px;
+}
+
+.p3{
+	position:absolute;
+	left:90px;
+	top:550px;
+}
